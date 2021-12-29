@@ -2,9 +2,10 @@
 It is a mobile-ready fully-responsive website.✨
 Website Link
 
-```sh
+
 https://geeky-sam01.github.io/pricingpanel.github.io/
-```
+
+
 
 ## Development
 
